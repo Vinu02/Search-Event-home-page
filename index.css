@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(179, 178, 178);
+}
+
+.box-part{
+    background-color: white;
+    padding: 40px 5px;
+    margin: 30px 0px;
+}
+
+.image{
+    background-color: blue;
+    padding: 40px 5px;
+    margin: 30px 0px;
+    border-radius: 30px;
+    border-color: black;
+    display: flex;
+    float: left;
+}
+
